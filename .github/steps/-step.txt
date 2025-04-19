@@ -1,12 +1,5 @@
-# Welcome to My Markdown Page
+# This is an `<h1>` header, which is the largest
 
-## About Me
+## This is an `<h2>` header
 
-### Skills
-
-#### Hobbies
-
-##### Future Goals
-
-###### Footer Note
-
+###### This is an `<h6>` header, which is the smallest
